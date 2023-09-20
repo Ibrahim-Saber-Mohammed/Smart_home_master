@@ -1,0 +1,16 @@
+MCAL/EEPROM/EEPROM_program.o MCAL/EEPROM/EEPROM_program.o:  \
+ ../MCAL/EEPROM/EEPROM_program.c \
+  ../MCAL/EEPROM/../../LIB/STD_TYPES/STD_TYPES.h \
+  ../MCAL/EEPROM/../../LIB/BIT_MATH/BIT_MATH.h \
+  ../MCAL/EEPROM/EEPROM_interface.h ../MCAL/EEPROM/EEPROM_config.h \
+  ../MCAL/EEPROM/EEPROM_private.h
+
+../MCAL/EEPROM/../../LIB/STD_TYPES/STD_TYPES.h:
+
+../MCAL/EEPROM/../../LIB/BIT_MATH/BIT_MATH.h:
+
+../MCAL/EEPROM/EEPROM_interface.h:
+
+../MCAL/EEPROM/EEPROM_config.h:
+
+../MCAL/EEPROM/EEPROM_private.h:
