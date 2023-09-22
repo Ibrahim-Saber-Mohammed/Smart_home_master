@@ -1,0 +1,5 @@
+K:/GitHub_Repos/Smart_home_master/Build/CMakeFiles/SMART_HOME_MASTER.elf.dir
+K:/GitHub_Repos/Smart_home_master/Build/CMakeFiles/FLASH.dir
+K:/GitHub_Repos/Smart_home_master/Build/CMakeFiles/BURN.dir
+K:/GitHub_Repos/Smart_home_master/Build/CMakeFiles/edit_cache.dir
+K:/GitHub_Repos/Smart_home_master/Build/CMakeFiles/rebuild_cache.dir
